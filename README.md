@@ -45,6 +45,7 @@ This project is an interactive console-based application that simulates the proc
 - Fetch user details, list all users, or remove a user from the records.
 
 ## Example
+```
 +-----------------+-------------------+
 | Features        | Value             |
 +-----------------+-------------------+
