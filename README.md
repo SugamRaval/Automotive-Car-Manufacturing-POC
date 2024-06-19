@@ -64,7 +64,7 @@ This project is an interactive console-based application that simulates the proc
 | Safety Features | Included          |
 | Sound System    | Included          |
 +-----------------+-------------------+
-
+```
 ## Contributing
 - Contributions are welcome! Please feel free to submit a Pull Request.
 
