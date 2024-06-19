@@ -1,4 +1,4 @@
-# Automotive Manufacturing Plant
+# Automotive Car Manufacturing Plant
 
 ## Introduction
 
